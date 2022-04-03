@@ -17,6 +17,9 @@
 }
 
 /* Header*/
+.navigation .current {
+    color: var(--accent-color)
+}
 .logo-link {
 font-family: var(--secondary-font);
 font-weight: 700;
