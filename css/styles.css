@@ -1,5 +1,5 @@
 :root {
-    --main-font: 'Open Sans', sans-serif;
+    --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
     --text-color-theme-dark: #FFFFFF;
     --main-text-color-theme-light: #212121;
@@ -195,8 +195,8 @@ letter-spacing: 0.03em;
 color: var(--text-color-theme-dark);
 }
 
-.adress-phone,
-.adress-mail {
+.address-phone,
+.address-mail {
 font-weight: 400;
 font-size: 14px;
 line-height: 1,71;
